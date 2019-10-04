@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="sydney">Sydney</string>
+    <string name="newYork">New York</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="mexicoCity">Mexico City</string>
+    <string name="dubai">Dubai</string>
+    <string name="convertTime">Convert time format (12/24hr)</string>
+</resources>
